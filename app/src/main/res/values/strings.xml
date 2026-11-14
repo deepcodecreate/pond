@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pond</string>
+    <string name="channel_name">Scan progress</string>
+    <string name="channel_desc">Shows the progress and the result of a device scan</string>
+    <string name="notif_running">Scanning… %1$d of %2$d checks done</string>
+    <string name="notif_clean">Scan finished. No signals need attention.</string>
+    <string name="notif_done">Scan finished. %1$d signals need attention.</string>
+</resources>

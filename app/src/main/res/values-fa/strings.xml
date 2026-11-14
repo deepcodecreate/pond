@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">پاند</string>
+    <string name="channel_name">پیشرفت اسکن</string>
+    <string name="channel_desc">پیشرفت و نتیجهٔ اسکن دستگاه را نشان می‌دهد</string>
+    <string name="notif_running">در حال اسکن… %1$d از %2$d بررسی انجام شد</string>
+    <string name="notif_clean">اسکن تمام شد. سیگنالی که توجه بخواهد نیست.</string>
+    <string name="notif_done">اسکن تمام شد. %1$d سیگنال توجه می‌خواهد.</string>
+</resources>
