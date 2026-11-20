@@ -2,6 +2,8 @@
 
 Android app that inspects device signals: key attestation, TEE, kernel and environment probes. It reports signals only. It is not a Play Integrity verdict and does not prove a device is unmodified.
 
+[![Get it in Lumen Store](https://deepcodecreate.github.io/lumenstore/badges/lumen-store.svg)](https://deepcodecreate.github.io/lumenstore/app.html?id=com.pond.inspector)
+
 ## Requirements
 
 - JDK 17
